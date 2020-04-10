@@ -1,0 +1,156 @@
+.primary {
+    color: orange;
+}
+
+.header{
+    border: 3px solid green;
+    position: relative;
+    text-align: center;
+    background-color: black;
+    margin: 0px;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+
+.poker{
+    border: 3px solid green;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 30px;
+}
+
+
+.cointainer-about{
+    border: 3px solid green;
+    position: relative;
+    
+   
+}
+
+.loginbar{
+    border: 3px solid pink;
+    
+}
+
+.poimg img{
+    border: 3px solid green;
+    position: absolute;
+    border-radius: 25px;
+    width: 50%;
+    height: 50%;
+    left: 30px;
+    margin-top: 20px;
+}
+
+.top-right{
+    border: 3px solid green;
+    position: relative;
+    /* top: 120px;
+    left: 50px; */
+    width: 25%;
+    font-size: large;
+}
+.regis {
+    border: 3px solid green;
+    font-size: large;
+    border-radius: 10px;
+    background-color: yellow;
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    transition: all 0.3s ease;
+}
+
+.regis:hover{
+    border: 3px solid green;
+    border:  2px solid blue;
+    background-color: yellowgreen;
+    
+}
+
+.button{
+    border: 3px solid green;
+    text-decoration: none;
+    font-size: large;
+    border-radius: 10px;
+    background-color: lightblue;
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    transition: all 0.3s ease;
+}
+
+.button:hover{
+    border: 3px solid green;
+    background-color: lightseagreen;
+    border:  2px solid blue;
+}
+
+.form-group {
+    /* float: right; */
+    text-align: center;
+    
+}
+
+.btn{
+    margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+.btn input{
+    margin-left: 20px;
+}
+
+.cnt{
+    margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+.up{
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+.down{
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+.card{
+}
+
+.poimg{
+  width: 30%;
+    
+}
+
+.Box1{
+border-radius: 15px;
+margin-bottom: 15px;
+  padding: 5px;
+  border: 1px solid blue;    
+  background-color: yellow; 
+}
+
+
+
+.loginimg{
+    border: 1px solid blue;
+}
+
+.Box2{
+    margin-bottom: 15px;
+    border-radius: 15px;
+  padding: 5px;
+  border: 1px solid blue;    
+  background-color: yellow; 
+}
